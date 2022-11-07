@@ -1,3 +1,3 @@
 # PortfolioProjects
 
-World Covid exploratory data. Covid infections/Death/population/vaccination
+Exploring data with this repository
