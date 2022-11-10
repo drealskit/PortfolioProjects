@@ -34,3 +34,7 @@ COUNT(*) AS Customer_amount
   ORDER BY Customer_amount DESC;
 
   -- number match, correct
+  
+  
+![windowfunccon](https://user-images.githubusercontent.com/106359949/200994599-db4a01d9-3f0c-426a-8530-80dc42f156fd.JPG)
+![windwsfunoutput](https://user-images.githubusercontent.com/106359949/200994601-42b9bb03-38ed-4a23-8b88-c547bc2771aa.JPG)
